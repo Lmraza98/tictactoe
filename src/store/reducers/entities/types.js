@@ -1,0 +1,3 @@
+// export const SEND_MESSAGE = 'SEND_MESSAGE'
+// export const UPDATE_INPUT = 'UPDATE_INPUT'
+// export const MESSAGE_RECEIVED = 'MESSAGE_RECEIVED'

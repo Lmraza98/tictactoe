@@ -2,3 +2,15 @@
 .root {
   height: 100%;
 }
+.game {
+  display: flex;
+  flex-direction: row;
+  height: 100%;
+}
+.game-details {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  align-items: center;
+  justify-content: center;
+}
